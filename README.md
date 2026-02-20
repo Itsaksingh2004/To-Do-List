@@ -1,0 +1,2 @@
+A dynamic Todo List application built with a focus on seamless user experience. This project leverages JavaScript DOM manipulation to allow users to add, manage, and track daily tasks in real-time. Integrated with Local Storage, it ensures that your data persists even after refreshing the browser.
+<img width="1915" height="912" alt="image" src="https://github.com/user-attachments/assets/93850613-87ca-4cfb-9799-2e20241620d7" />
